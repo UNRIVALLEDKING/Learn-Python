@@ -1,4 +1,4 @@
-# Python Basics Documentation
+# Python Basics Documentation 🚀🔥
 
 This documentation provides a comprehensive introduction to the basics of Python programming. It covers essential concepts such as printing, indentation, variables, data types, arithmetic operations, and more. By following this documentation, beginners can acquire a solid foundation in Python programming and develop their skills progressively.
 
