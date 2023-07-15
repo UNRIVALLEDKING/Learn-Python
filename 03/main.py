@@ -41,7 +41,7 @@ The target of this exercise is to create two lists called x_list and y_list, whi
 x = object()
 y = object()
 
-# Solution to the exercise
+# Solution of the exercise
 x_list = [x] * 10  # Create a list with repeated instances of x
 y_list = [y] * 10  # Create a list with repeated instances of y
 big_list = x_list + y_list  # Concatenate the two lists
