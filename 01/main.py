@@ -1,6 +1,7 @@
+
+```python
 # Prints "Yahallo!" to the console
 print("Yahallo!")
-
 
 
 # Indentation
@@ -10,12 +11,7 @@ if x == 4:
     print("x is 4.")
 
 
-# Prints "Goodbye, World!" to the console
-print("Goodbye, World!") 
-
-
-# Variables and Types
-
+# Variables and Data Types
 myint = 7  # Assigns the integer value 7 to the variable myint
 print(myint)  # Prints the value of myint
 
