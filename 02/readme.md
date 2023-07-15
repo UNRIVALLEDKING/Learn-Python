@@ -61,13 +61,8 @@ numbers = []
 strings = []
 names = ["John", "Eric", "Jessica"]
 
-# Solution to the exercise
-numbers.append(1)
-numbers.append(2)
-numbers.append(3)
-
-strings.append("hello")
-strings.append("world")
+# write your code here
+second_name = None
 
 second_name = names[1]  # Access the second name in the list
 
