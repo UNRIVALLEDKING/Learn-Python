@@ -9,9 +9,9 @@ mylist.append(2)  # Add the number 2 to the list
 mylist.append(3)  # Add the number 3 to the list
 
 # Access elements in the list using indexing
-print(mylist[0])  # Print the first element of the list (index 0), which is 1
-print(mylist[1])  # Print the second element of the list (index 1), which is 2
-print(mylist[2])  # Print the third element of the list (index 2), which is 3
+print(mylist[0])  # Print the first element of the list (1)
+print(mylist[1])  # Print the second element of the list (2)
+print(mylist[2])  # Print the third element of the list (3)
 
 # Iterate over the elements of the list
 for x in mylist:
