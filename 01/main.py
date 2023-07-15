@@ -57,7 +57,7 @@ print(a, b)  # Prints the values of a and b
 # print(one + two + hello)
 
 
-# Solution to the exercise
+# Solution of the exercise
 
 mystring = "Yahallo!"  # Assigns the string "Yahallo!" to the variable mystring
 myfloat = 55.5  # Assigns the floating-point value 55.5 to the variable myfloat
