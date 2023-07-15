@@ -1,52 +1,33 @@
-# Explanation of the Python code
-
-'''
-Python is a very simple language, and has a very straightforward syntax. It encourages programmers to program without boilerplate (prepared) code. The simplest directive in Python is the "print" directive - it simply prints out a line (and also includes a newline, unlike in C).
-
-There are two major Python versions, Python 2 and Python 3. Python 2 and 3 are quite different. This tutorial uses Python 3 because it is more semantically correct and supports newer features.
-
-For example, one difference between Python 2 and 3 is the print statement. In Python 2, the "print" statement is not a function, and therefore it is invoked without parentheses. However, in Python 3, it is a function and must be invoked with parentheses.
-'''
-
-print("Yahallo!")  # Prints "Yahallo!" to the console
+# Prints "Yahallo!" to the console
+print("Yahallo!")
 
 
-'''
-Indentation
-Python uses indentation for blocks, instead of curly braces. Both tabs and spaces are supported, but the standard indentation requires standard Python code to use four spaces. For example:
-'''
+
+# Indentation
 x = 4
 if x == 4:
     # indented four spaces
     print("x is 4.")
 
 
-print("Goodbye, World!")  # Prints "Goodbye, World!" to the console
+# Prints "Goodbye, World!" to the console
+print("Goodbye, World!") 
 
 
-'''
-Variables and Types
-Python is completely object-oriented, and not "statically typed". You do not need to declare variables before using them or declare their type. Every variable in Python is an object.
-'''
+# Variables and Types
 
 myint = 7  # Assigns the integer value 7 to the variable myint
 print(myint)  # Prints the value of myint
 
 
-'''
-Numbers
-Python supports two types of numbers - integers (whole numbers) and floating-point numbers (decimals). It also supports complex numbers.
-'''
+# Numbers
 myfloat = 7.0  # Assigns the floating-point value 7.0 to the variable myfloat
 print(myfloat)  # Prints the value of myfloat
 myfloat = float(7)  # Converts the integer 7 to a floating-point number and assigns it to myfloat
 print(myfloat)  # Prints the value of myfloat
 
 
-'''
-Strings
-Strings are defined either with single quotes or double quotes. The difference between the two is that using double quotes makes it easy to include apostrophes (whereas these would terminate the string if using single quotes).
-'''
+# Strings
 mystring = 'hello'  # Assigns the string "hello" to the variable mystring
 print(mystring)  # Prints the value of mystring
 mystring = "hello"  # Assigns the string "hello" to the variable mystring
@@ -71,9 +52,7 @@ a, b = 3, 4  # Assigns the values 3 and 4 to the variables a and b simultaneousl
 print(a, b)  # Prints the values of a and b
 
 
-'''
-Mixing operators between numbers and strings is not supported:
-'''
+# Mixing operators between numbers and strings is not supported:
 # The following line of code will raise a TypeError since it tries to add an integer, a string, and another integer
 # print(one + two + hello)
 
