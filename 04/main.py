@@ -27,5 +27,6 @@ You will need to write a format string which prints out the data using the follo
 '''
 
 data = ("Aditya", "Kumar", 99.99)
-format_string = "Hello %s %s. Your current balance is $%.2f."  # The %.2f specifier formats the floating-point number with 2 digits after the dot.
+format_string = "Hello %s %s. Your current balance is $%.2f."
+# The %.2f specifier formats the floating-point number with 2 digits after the dot.
 print(format_string % data)
