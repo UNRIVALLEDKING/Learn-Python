@@ -26,6 +26,7 @@ Exercise
 You will need to write a format string which prints out the data using the following syntax: Hello Aditya Kumar. Your current balance is $99.99.
 '''
 
+# Solution of the exercise
 data = ("Aditya", "Kumar", 99.99)
 format_string = "Hello %s %s. Your current balance is $%.2f."
 # The %.2f specifier formats the floating-point number with 2 digits after the dot.
