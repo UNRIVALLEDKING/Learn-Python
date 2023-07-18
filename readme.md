@@ -12,6 +12,7 @@ Welcome to the "Learn Python" repository! This repository serves as a comprehens
 6. [Chapter 6: Conditions](06/)
 7. [Chapter 7: Loops](07/)
 8. [Chapter 8: Functions](08/)
+9. [Chapter 9: Classes and Objects](09/)
 
 ## About this Repository ℹ️
 
