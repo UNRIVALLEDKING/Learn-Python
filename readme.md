@@ -1,4 +1,4 @@
-# Python 1 🐍
+# Python 🐍
 
 Welcome to the "Learn Python" repository! This repository serves as a comprehensive guide to learning the fundamental concepts of Python programming. Whether you are a complete beginner or looking to refresh your Python skills, this repository has something to offer for everyone.
 
